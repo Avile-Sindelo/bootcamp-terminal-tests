@@ -1,3 +1,4 @@
+import assert from "assert";
 import greet from "../greet.js";
 
 describe('Bootcamp greet function testing on the terminal', function(){
