@@ -43,7 +43,7 @@ describe('Testing the Most Profitable Department function on the terminal', func
             {department : 'carpentry', sales : 8009, day : 'Wednesday'},
         ];
         
-        assert.equal('outdoor', mostProfitableDepartment(salesData), " Most profitable department is 'outdoor' for dataset 1");
+        assert.equal('outdoor', mostProfitableDepartment(salesData), "Most profitable department is 'outdoor' for dataset 1");
        
     });
 

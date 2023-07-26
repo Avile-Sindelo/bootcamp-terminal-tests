@@ -22,5 +22,5 @@ export default function mostProfitableDepartment(salesData) {
       }
     }
   
-    return mostProfitableDept;
+    return "Most profitable department is '"+mostProfitableDept+"' for dataset 1";
   }
